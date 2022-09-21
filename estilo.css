@@ -1,0 +1,55 @@
+*{
+    margin: 0;  
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("https://png.pngtree.com/background/20210712/original/pngtree-modern-double-color-futuristic-neon-background-picture-image_1181573.jpg");
+}
+
+.registros{
+    width:  400px;
+    background:#24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+.registros h4{
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.controls{
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+.registros a {
+    color: white;
+    text-decoration:none;
+}
+
+.registros a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.registros .botons{
+
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 10px;
+    color: white;
+    margin : 10px 0;
+    font-size: 16;
+}  
+
